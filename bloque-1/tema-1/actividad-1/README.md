@@ -19,7 +19,7 @@ Como mínimo, el programa debe tener las siguientes clases/entidades:
 
 1. **`Ingredient`**
    - Nombre, cantidad, unidad (g, ml, unidades...).
-2. **`Cocinero`**
+2. **`actividad1.Cocinero`**
    - Nombre.
    - Método(s) para ejecutar una `Paso` de la receipt.
 3. **`Container`**: representa una sartén, cazuela u olla.
@@ -71,7 +71,7 @@ Podéis ajustar/enriquecer los pasos, pero deben quedar claramente representados
 
 | Criterio | Peso |
 |---|---|
-| Modelado correcto de clases (Cocinero, Ingredient, Container, Paso, Receipt) | 30% |
+| Modelado correcto de clases (actividad1.Cocinero, Ingredient, Container, Paso, Receipt) | 30% |
 | Ejecución secuencial correcta y coherente de todos los pasos | 30% |
 | Simulación de tiempos con `Thread.sleep` y cálculo del tiempo total | 20% |
 | Calidad del código (nombres, encapsulación, organización en paquetes) | 20% |
