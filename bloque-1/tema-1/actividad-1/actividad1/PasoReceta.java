@@ -1,5 +1,4 @@
 package actividad1;
-
 import java.util.List;
 public class PasoReceta {
 

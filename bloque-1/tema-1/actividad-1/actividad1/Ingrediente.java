@@ -1,5 +1,4 @@
 package actividad1;
-
 public class Ingrediente {
 
     private String nombre;

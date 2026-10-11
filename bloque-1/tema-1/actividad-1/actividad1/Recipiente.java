@@ -1,8 +1,6 @@
 package actividad1;
-
 import java.util.ArrayList;
 import java.util.List;
-
 public class Recipiente {
 
     private String nombre;
