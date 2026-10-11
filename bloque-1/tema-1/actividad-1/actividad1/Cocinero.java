@@ -31,7 +31,7 @@ public class Cocinero {
             Thread.sleep(paso.getDuracion() * 1000);
         }
         catch (InterruptedException e) {
-            System.out.println("El paso fue interrumpido");
+            System.out.println("Algo ha salido mal");
         }
 
         recipiente.setEstado("-- TERMINADO --");
