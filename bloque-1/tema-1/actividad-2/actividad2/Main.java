@@ -16,8 +16,7 @@ public class Main {
             correo.join();
             backup.join();
         } catch (InterruptedException e) {
-            System.out.println("Main fue interrumpido mientras esperaba");
-        }
+            System.out.println("Error");
 
         System.out.println("-- TERMINADO --");
 
