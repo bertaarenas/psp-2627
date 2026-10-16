@@ -15,8 +15,10 @@ public class Main {
             impresora.join();
             correo.join();
             backup.join();
-        } catch (InterruptedException e) {
+        }
+        catch (InterruptedException e) {
             System.out.println("Error");
+        }
 
         System.out.println("-- TERMINADO --");
 
