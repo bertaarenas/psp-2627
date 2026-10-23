@@ -1,0 +1,46 @@
+Espaguetis a la boloñesa (2 pers)
+
+[19:05:10] Berta empieza: Hervir el agua, echarle la sal y el aceite.
+ Recipiente: Olla
+ Ingredientes: [Nombre: Agua | Cantidad: 2000 ml, Nombre: Sal | Cantidad: 10 g, Nombre: Aceite | Cantidad: 20 ml]
+ Duración: 2 s
+[19:05:12] Berta termina: Hervir el agua, echarle la sal y el aceite.
+[19:05:12] Berta empieza: Meter los espaguetis y dejarlos cocer
+ Recipiente: Olla
+ Ingredientes: [Nombre: Espaguetis | Cantidad: 200 g]
+ Duración: 7 s
+[19:05:19] Berta termina: Meter los espaguetis y dejarlos cocer
+[19:05:19] Berta empieza: Sofreír la cebolla y el ajo
+ Recipiente: Sarten
+ Ingredientes: [Nombre: Cebolla | Cantidad: 50 g, Nombre: Ajo | Cantidad: 1 dientes]
+ Duración: 5 s
+[19:05:24] Berta termina: Sofreír la cebolla y el ajo
+[19:05:24] Berta empieza: Añadir la carne picada.
+ Recipiente: Sarten
+ Ingredientes: [Nombre: Carne picada | Cantidad: 300 g]
+ Duración: 4 s
+[19:05:28] Berta termina: Añadir la carne picada.
+[19:05:28] Berta empieza: Añadir el tomate a la carne y mezclarlo.
+ Recipiente: Sarten
+ Ingredientes: [Nombre: Tomate frito | Cantidad: 250 g]
+ Duración: 3 s
+[19:05:31] Berta termina: Añadir el tomate a la carne y mezclarlo.
+[19:05:31] Berta empieza: Escurrir la pasta
+ Recipiente: Olla
+ Ingredientes: []
+ Duración: 1 s
+[19:05:32] Berta termina: Escurrir la pasta
+[19:05:32] Berta empieza: Meter los espaguetis en la sarten con la salsa boloñesa, y mezclar.
+ Recipiente: Sarten
+ Ingredientes: [Nombre: Espaguetis | Cantidad: 200 g]
+ Duración: 2 s
+[19:05:34] Berta termina: Meter los espaguetis en la sarten con la salsa boloñesa, y mezclar.
+[19:05:34] Berta empieza: Emplatar
+ Recipiente: Plato
+ Ingredientes: [Nombre: Espaguetis a la boloñesa | Cantidad: 2 platos]
+ Duración: 1 s
+[19:05:35] Berta termina: Emplatar
+La receta esta terminada.
+Tiempo total: 25 segundos
+
+Process finished with exit code 0
