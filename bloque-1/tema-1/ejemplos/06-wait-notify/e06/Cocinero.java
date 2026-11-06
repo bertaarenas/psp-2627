@@ -1,5 +1,4 @@
 package e06;
-
 public class Cocinero implements Runnable {
     private final Plato plato;
     private final String[] menu;
