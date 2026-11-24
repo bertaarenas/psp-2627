@@ -1,4 +1,8 @@
 package ejercicio4;
+public class Operario implements Runnable{
 
-public class Operario {
+    @Override
+    public void run () {
+
+    }
 }
