@@ -9,7 +9,8 @@ public class Semaforo {
             while (!verde) {
                 try {
                     wait();
-                } catch (InterruptedException e) {
+                }
+                catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
